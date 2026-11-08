@@ -12,5 +12,5 @@ It lets you add, edit, complete and delete tasks. Everything is saved in a Supab
 HTML, CSS, JavaScript (fetch), Supabase (PostgreSQL + REST API), GitHub Pages.
 
 ## Team collaboration
-- Pull Request I made in my partner's repo: PASTE_LINK_HERE
-- Pull Request my partner made in my repo: PASTE_LINK_HERE
+- Pull Request I made in my partner's repo: https://github.com/vistula-team-project-72608/vistula-task-manager/pull/1
+- Pull Request my partner made in my repo: https://github.com/vistula-team-project-73174-gul/vistula-task-manager/pull/1
